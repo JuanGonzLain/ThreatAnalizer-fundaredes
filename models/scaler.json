@@ -1,0 +1,38 @@
+{
+    "mean": {
+        "packets_analyzed": 50.0,
+        "avg_payload_size": 567.1266666666668,
+        "avg_inter_arrival_ms": 97.127,
+        "protocols_detected": 2.6666666666666665,
+        "dropped_packets": 0.0,
+        "tcp_count": 38.06666666666667,
+        "udp_count": 10.266666666666667,
+        "icmp_count": 0.0,
+        "arp_count": 1.3666666666666667,
+        "l2_only_count": 1.5666666666666667
+    },
+    "std": {
+        "packets_analyzed": 1.0,
+        "avg_payload_size": 258.35025758725754,
+        "avg_inter_arrival_ms": 57.34534344502251,
+        "protocols_detected": 0.8441822541139558,
+        "dropped_packets": 1.0,
+        "tcp_count": 11.243184397771783,
+        "udp_count": 11.14770220125278,
+        "icmp_count": 1.0,
+        "arp_count": 1.4015590662158888,
+        "l2_only_count": 1.6750364552560586
+    },
+    "columns": [
+        "packets_analyzed",
+        "avg_payload_size",
+        "avg_inter_arrival_ms",
+        "protocols_detected",
+        "dropped_packets",
+        "tcp_count",
+        "udp_count",
+        "icmp_count",
+        "arp_count",
+        "l2_only_count"
+    ]
+}
